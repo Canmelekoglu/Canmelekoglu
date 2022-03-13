@@ -6,5 +6,4 @@ BSc. Electric Electronic Engineer, Graduated from Adana Alparslan Turkes Univers
 - 👀 I’m interested in math, data science, and sport 
 - 🌱 I’m currently learning software testing and SQL 
 - 💞️ I'm addicted to learning and growing every day
-- 📫 How to reach me:
-        https://www.linkedin.com/in/izzet-can/
+- 📫 [Click to reach me](https://www.linkedin.com/in/izzet-can/)
